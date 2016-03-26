@@ -5,8 +5,8 @@ Enterprise solution for the University Management that will automate and simplif
 It Contains Three type of users.
 
 1)Admin
-2)Student
-3)Teacher
+ 2)Student
+ 3)Teacher
 
 Admin Have all the rights to delete update or add anything.
 Student only view his/her result or progress report.
