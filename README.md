@@ -25,4 +25,4 @@ Name of the database used is **project** .
     Salary
     User
 
-You can easily inport this website to your PC Simply create a database on WAMP XAMP or any Apache Server Name  "Project".
+You can easily import this website to your PC Simply create a database on WAMP XAMP or any Apache Server Name  "Project".
